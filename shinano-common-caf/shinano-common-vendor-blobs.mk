@@ -471,9 +471,6 @@ PRODUCT_COPY_FILES += \
 	vendor/sony/shinano-common-caf/proprietary/vendor/lib/libvendorconn.so:system/vendor/lib/libvendorconn.so \
 	vendor/sony/shinano-common-caf/proprietary/vendor/lib/libwqe.so:system/vendor/lib/libwqe.so \
 	vendor/sony/shinano-common-caf/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
-	vendor/sony/shinano-common-caf/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
-	vendor/sony/shinano-common-caf/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
-	vendor/sony/shinano-common-caf/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
 	vendor/sony/shinano-common-caf/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
 	vendor/sony/shinano-common-caf/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
 	vendor/sony/shinano-common-caf/proprietary/vendor/lib/libxtadapter.so:system/vendor/lib/libxtadapter.so \
